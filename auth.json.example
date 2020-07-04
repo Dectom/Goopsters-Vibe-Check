@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "mysql": {
+    "connectionLimit": 50,
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  }
+}
